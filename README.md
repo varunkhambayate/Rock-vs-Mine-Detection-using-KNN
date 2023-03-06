@@ -1,1 +1,3 @@
 # Rock-vs-Mine-Detection-using-KNN
+# <h3> Description </h3> KNN (K-Nearest Neighbors) is a supervised machine learning algorithm that uses distance of data points to predict the outcomes. The following dataset contains several sonar frequencies along with a outcome (Rock/Mine). I build a Machine Learning Model using KNN where at a particular frequency we can predict whether it is a Rock or Mine. The accuracy of the model is 0.84. This is a classification based project.
+# <h3>Preview of the output</h3> :- <img src="https://raw.githubusercontent.com/varunkhambayate/Rock-vs-Mine-Detection-using-KNN/main/KNN%20Predictions.JPG">
